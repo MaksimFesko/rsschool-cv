@@ -1,0 +1,48 @@
+body {
+    background-color: #282828;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 1.3;
+    color: white;
+    font-style: italic;
+}
+<<<<<<< HEAD
+ul, li, p{
+    margin: 0 auto;
+}
+=======
+>>>>>>> 5b80548159f8b0f4ac43d6be703fec704a985ab1
+.container {
+   text-align: center;
+}
+.picture {
+    margin-top: 50px;
+}
+.name {
+    font-size: 20px;
+}
+li{
+    list-style-type: none;
+}
+<<<<<<< HEAD
+a {
+    color: white;
+}
+footer{
+    position: relative;
+    margin-top: 30px;
+}
+.school {
+    position: absolute;
+    left: 200px;
+    bottom: 0;
+}
+.youtube {
+    position: absolute;
+    right: 200px;
+    bottom: 0;
+}
+
+=======
+>>>>>>> 5b80548159f8b0f4ac43d6be703fec704a985ab1
+
