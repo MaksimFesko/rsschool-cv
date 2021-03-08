@@ -6,9 +6,12 @@ body {
     color: white;
     font-style: italic;
 }
+<<<<<<< HEAD
 ul, li, p{
     margin: 0 auto;
 }
+=======
+>>>>>>> 5b80548159f8b0f4ac43d6be703fec704a985ab1
 .container {
    text-align: center;
 }
@@ -21,6 +24,7 @@ ul, li, p{
 li{
     list-style-type: none;
 }
+<<<<<<< HEAD
 a {
     color: white;
 }
@@ -39,4 +43,6 @@ footer{
     bottom: 0;
 }
 
+=======
+>>>>>>> 5b80548159f8b0f4ac43d6be703fec704a985ab1
 
