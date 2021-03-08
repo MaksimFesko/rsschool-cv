@@ -6,6 +6,9 @@ body {
     color: white;
     font-style: italic;
 }
+ul, li, p{
+    margin: 0 auto;
+}
 .container {
    text-align: center;
 }
@@ -18,4 +21,22 @@ body {
 li{
     list-style-type: none;
 }
+a {
+    color: white;
+}
+footer{
+    position: relative;
+    margin-top: 30px;
+}
+.school {
+    position: absolute;
+    left: 200px;
+    bottom: 0;
+}
+.youtube {
+    position: absolute;
+    right: 200px;
+    bottom: 0;
+}
+
 
